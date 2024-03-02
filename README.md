@@ -29,11 +29,11 @@ Examples:
 As training progresses the script will print some samples throughout and automatically load the best model so far and print more samples on demand. Here are some unique baby names that get eventually generated from current default settings.
 
 Results:
-Yathuramidhi
-Sarujeshri
-Kutmika
-RomuneshDuman
-Laathikana
-Vendh
-Shinchit
-Kinthith
+1. Yathuramidhi
+2. Sarujeshri
+3. Kutmika
+4. RomuneshDuman
+5. Laathikana
+6. Vendh
+7. Shinchit
+8. Kinthith
